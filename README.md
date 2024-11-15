@@ -1,6 +1,7 @@
 <header>
 
 <!--
+
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
@@ -22,6 +23,13 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 -->
 
 ## Step 1: Add headers
+## Step 2: 
+## Step 3: 
+It's ok.
+## Step 5: 
+
+## Step 6: 
+
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
