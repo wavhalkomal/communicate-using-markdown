@@ -28,6 +28,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 It's ok.
 ## Step 5: 
 
+## Step 6: 
 
 
 _Welcome to "Communicate using Markdown"! :wave:_
